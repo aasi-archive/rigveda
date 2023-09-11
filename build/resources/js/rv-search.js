@@ -100,7 +100,7 @@ function SearchRV(result_selector, query, language)
             for(const key in results)
             {
                 var book_hymn = key.split(':');
-                $(global_result_selector).append(GenerateResultCard(book_hymn[0], book_hymn[1], results[key]));
+                $(global_result_selector).append(GenerateResultCard(book_hymn[0], book_hymn[1], results[key]["surrounding"]));
             }
             search_allowed = true;
         }

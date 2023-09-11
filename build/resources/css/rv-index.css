@@ -37,3 +37,11 @@
     background-color: var(--theme-color-text);
     color: var(--theme-color-background);
 }
+
+.footer {
+    text-align: center;
+    font-size: 0.8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
