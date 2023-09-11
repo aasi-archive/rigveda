@@ -9,6 +9,8 @@ with open('rig-veda.json', 'r', encoding='utf-8') as f:
     RV_DATA = json.loads(f.read())
 with open('rig-veda-audio.json', 'r') as f:
     RV_AUDIO_DATA = json.loads(f.read())
+with open('rig-veda-verse-info.json', 'r', encoding='utf-8') as f:
+    RV_VERSE_INFO = json.loads(f.read())
 
 template_loader = jinja2.FileSystemLoader(searchpath="./")
 template_engine = jinja2.Environment(loader=template_loader)
@@ -26,6 +28,9 @@ def GetRVHymnAudioURL(mandala, hymn):
     except:
         import traceback
         print(traceback.format_exc())
+
+def GetRVVerseInfo(mandala, hymn):
+    return RV_VERSE_INFO[str(mandala)][str(hymn)]
 
 def GetRVMandalaMax(mandala):
     return RV_DATA["INFO_HEADER"]["VERSES_PER_MANDALA"][str(mandala)]
@@ -59,7 +64,8 @@ def GetRVMandalaTitles(mandala):
         if("Indra" in title):
             icon = "indra"
 
-        titles.append({ "title": title, "icon": icon })
+        verse_info = GetRVVerseInfo(mandala, i)
+        titles.append({ "title": title, "icon": icon, "group": verse_info["group"], "stanzas": verse_info["stanzas"] })
     return titles
 
 def GenerateRVHymnPath(mandala, hymn, prefix=RV_BUILD_DIR):

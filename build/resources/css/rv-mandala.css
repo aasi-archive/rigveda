@@ -1,5 +1,9 @@
 @import '/resources/css/rv-common.css';
 
+html::-webkit-scrollbar {
+    display: none;
+}
+
 .progess-bar-header {
     position: fixed;
     top: 0;
@@ -55,6 +59,7 @@ h2 {
     color: var(--theme-color-background-light);
 }
 
-::-webkit-scrollbar {
-    display: none;
+.hymn-info {
+    font-size: 1.0rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

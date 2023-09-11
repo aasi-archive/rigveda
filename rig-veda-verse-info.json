@@ -1,0 +1,4134 @@
+{
+    "1": {
+        "1": {
+            "stanzas": 9,
+            "group": "Hymns of Madhucchandas"
+        },
+        "2": {
+            "stanzas": 9,
+            "group": "Hymns of Madhucchandas"
+        },
+        "3": {
+            "stanzas": 12,
+            "group": "Hymns of Madhucchandas"
+        },
+        "4": {
+            "stanzas": 10,
+            "group": "Hymns of Madhucchandas"
+        },
+        "5": {
+            "stanzas": 10,
+            "group": "Hymns of Madhucchandas"
+        },
+        "6": {
+            "stanzas": 10,
+            "group": "Hymns of Madhucchandas"
+        },
+        "7": {
+            "stanzas": 10,
+            "group": "Hymns of Madhucchandas"
+        },
+        "8": {
+            "stanzas": 10,
+            "group": "Hymns of Madhucchandas"
+        },
+        "9": {
+            "stanzas": 10,
+            "group": "Hymns of Madhucchandas"
+        },
+        "10": {
+            "stanzas": 12,
+            "group": "Hymns of Madhucchandas"
+        },
+        "11": {
+            "stanzas": 8,
+            "group": "Hymns of Madhucchandas"
+        },
+        "12": {
+            "stanzas": 12,
+            "group": "Hymns of Medhatithi"
+        },
+        "13": {
+            "stanzas": 12,
+            "group": "Hymns of Medhatithi"
+        },
+        "14": {
+            "stanzas": 12,
+            "group": "Hymns of Medhatithi"
+        },
+        "15": {
+            "stanzas": 12,
+            "group": "Hymns of Medhatithi"
+        },
+        "16": {
+            "stanzas": 9,
+            "group": "Hymns of Medhatithi"
+        },
+        "17": {
+            "stanzas": 9,
+            "group": "Hymns of Medhatithi"
+        },
+        "18": {
+            "stanzas": 9,
+            "group": "Hymns of Medhatithi"
+        },
+        "19": {
+            "stanzas": 9,
+            "group": "Hymns of Medhatithi"
+        },
+        "20": {
+            "stanzas": 8,
+            "group": "Hymns of Medhatithi"
+        },
+        "21": {
+            "stanzas": 6,
+            "group": "Hymns of Medhatithi"
+        },
+        "22": {
+            "stanzas": 21,
+            "group": "Hymns of Medhatithi"
+        },
+        "23": {
+            "stanzas": 24,
+            "group": "Hymns of Medhatithi"
+        },
+        "24": {
+            "stanzas": 15,
+            "group": "Hymns of Medhatithi"
+        },
+        "25": {
+            "stanzas": 21,
+            "group": "Hymns of Medhatithi"
+        },
+        "26": {
+            "stanzas": 10,
+            "group": "Hymns of Medhatithi"
+        },
+        "27": {
+            "stanzas": 13,
+            "group": "Hymns of Medhatithi"
+        },
+        "28": {
+            "stanzas": 9,
+            "group": "Hymns of Medhatithi"
+        },
+        "29": {
+            "stanzas": 7,
+            "group": "Hymns of Medhatithi"
+        },
+        "30": {
+            "stanzas": 22,
+            "group": "Hymns of Medhatithi"
+        },
+        "31": {
+            "stanzas": 18,
+            "group": "Hymns of Medhatithi"
+        },
+        "32": {
+            "stanzas": 15,
+            "group": "Hymns of Medhatithi"
+        },
+        "33": {
+            "stanzas": 15,
+            "group": "Hymns of Medhatithi"
+        },
+        "34": {
+            "stanzas": 12,
+            "group": "Hymns of Medhatithi"
+        },
+        "35": {
+            "stanzas": 11,
+            "group": "Hymns of Medhatithi"
+        },
+        "36": {
+            "stanzas": 20,
+            "group": "Hymns of Kanva"
+        },
+        "37": {
+            "stanzas": 15,
+            "group": "Hymns of Kanva"
+        },
+        "38": {
+            "stanzas": 15,
+            "group": "Hymns of Kanva"
+        },
+        "39": {
+            "stanzas": 10,
+            "group": "Hymns of Kanva"
+        },
+        "40": {
+            "stanzas": 8,
+            "group": "Hymns of Kanva"
+        },
+        "41": {
+            "stanzas": 9,
+            "group": "Hymns of Kanva"
+        },
+        "42": {
+            "stanzas": 10,
+            "group": "Hymns of Kanva"
+        },
+        "43": {
+            "stanzas": 9,
+            "group": "Hymns of Kanva"
+        },
+        "44": {
+            "stanzas": 14,
+            "group": "Hymns of Praskanva"
+        },
+        "45": {
+            "stanzas": 10,
+            "group": "Hymns of Praskanva"
+        },
+        "46": {
+            "stanzas": 15,
+            "group": "Hymns of Praskanva"
+        },
+        "47": {
+            "stanzas": 10,
+            "group": "Hymns of Praskanva"
+        },
+        "48": {
+            "stanzas": 16,
+            "group": "Hymns of Praskanva"
+        },
+        "49": {
+            "stanzas": 4,
+            "group": "Hymns of Praskanva"
+        },
+        "50": {
+            "stanzas": 13,
+            "group": "Hymns of Praskanva"
+        },
+        "51": {
+            "stanzas": 15,
+            "group": "Hymns of Savya"
+        },
+        "52": {
+            "stanzas": 15,
+            "group": "Hymns of Savya"
+        },
+        "53": {
+            "stanzas": 11,
+            "group": "Hymns of Savya"
+        },
+        "54": {
+            "stanzas": 11,
+            "group": "Hymns of Savya"
+        },
+        "55": {
+            "stanzas": 8,
+            "group": "Hymns of Savya"
+        },
+        "56": {
+            "stanzas": 6,
+            "group": "Hymns of Savya"
+        },
+        "57": {
+            "stanzas": 6,
+            "group": "Hymns of Savya"
+        },
+        "58": {
+            "stanzas": 9,
+            "group": "Hymns of Nodhas, Descendant of Gotama"
+        },
+        "59": {
+            "stanzas": 7,
+            "group": "Hymns of Nodhas, Descendant of Gotama"
+        },
+        "60": {
+            "stanzas": 5,
+            "group": "Hymns of Nodhas, Descendant of Gotama"
+        },
+        "61": {
+            "stanzas": 16,
+            "group": "Hymns of Nodhas, Descendant of Gotama"
+        },
+        "62": {
+            "stanzas": 13,
+            "group": "Hymns of Nodhas, Descendant of Gotama"
+        },
+        "63": {
+            "stanzas": 9,
+            "group": "Hymns of Nodhas, Descendant of Gotama"
+        },
+        "64": {
+            "stanzas": 15,
+            "group": "Hymns of Nodhas, Descendant of Gotama"
+        },
+        "65": {
+            "stanzas": 5,
+            "group": "Hymns of Parasa, the Son of Sakti"
+        },
+        "66": {
+            "stanzas": 5,
+            "group": "Hymns of Parasa, the Son of Sakti"
+        },
+        "67": {
+            "stanzas": 5,
+            "group": "Hymns of Parasa, the Son of Sakti"
+        },
+        "68": {
+            "stanzas": 5,
+            "group": "Hymns of Parasa, the Son of Sakti"
+        },
+        "69": {
+            "stanzas": 5,
+            "group": "Hymns of Parasa, the Son of Sakti"
+        },
+        "70": {
+            "stanzas": 6,
+            "group": "Hymns of Parasa, the Son of Sakti"
+        },
+        "71": {
+            "stanzas": 10,
+            "group": "Hymns of Parasa, the Son of Sakti"
+        },
+        "72": {
+            "stanzas": 10,
+            "group": "Hymns of Parasa, the Son of Sakti"
+        },
+        "73": {
+            "stanzas": 10,
+            "group": "Hymns of Parasa, the Son of Sakti"
+        },
+        "74": {
+            "stanzas": 9,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "75": {
+            "stanzas": 5,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "76": {
+            "stanzas": 5,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "77": {
+            "stanzas": 5,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "78": {
+            "stanzas": 5,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "79": {
+            "stanzas": 12,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "80": {
+            "stanzas": 16,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "81": {
+            "stanzas": 9,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "82": {
+            "stanzas": 7,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "83": {
+            "stanzas": 6,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "84": {
+            "stanzas": 20,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "85": {
+            "stanzas": 12,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "86": {
+            "stanzas": 10,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "87": {
+            "stanzas": 6,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "88": {
+            "stanzas": 6,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "89": {
+            "stanzas": 10,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "90": {
+            "stanzas": 9,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "91": {
+            "stanzas": 23,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "92": {
+            "stanzas": 18,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "93": {
+            "stanzas": 12,
+            "group": "Hymns of Gotama, the Son of Rahugana"
+        },
+        "94": {
+            "stanzas": 16,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "95": {
+            "stanzas": 11,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "96": {
+            "stanzas": 10,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "97": {
+            "stanzas": 8,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "98": {
+            "stanzas": 3,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "99": {
+            "stanzas": 1,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "100": {
+            "stanzas": 19,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "101": {
+            "stanzas": 11,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "102": {
+            "stanzas": 11,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "103": {
+            "stanzas": 8,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "104": {
+            "stanzas": 9,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "105": {
+            "stanzas": 19,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "106": {
+            "stanzas": 7,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "107": {
+            "stanzas": 3,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "108": {
+            "stanzas": 13,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "109": {
+            "stanzas": 8,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "110": {
+            "stanzas": 9,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "111": {
+            "stanzas": 5,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "112": {
+            "stanzas": 25,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "113": {
+            "stanzas": 20,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "114": {
+            "stanzas": 11,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "115": {
+            "stanzas": 6,
+            "group": "Hymns of Kutsa, the Angiras"
+        },
+        "116": {
+            "stanzas": 25,
+            "group": "Hymns of Kaksivat, the Son of Dirghatamas and Usij"
+        },
+        "117": {
+            "stanzas": 25,
+            "group": "Hymns of Kaksivat, the Son of Dirghatamas and Usij"
+        },
+        "118": {
+            "stanzas": 11,
+            "group": "Hymns of Kaksivat, the Son of Dirghatamas and Usij"
+        },
+        "119": {
+            "stanzas": 10,
+            "group": "Hymns of Kaksivat, the Son of Dirghatamas and Usij"
+        },
+        "120": {
+            "stanzas": 12,
+            "group": "Hymns of Kaksivat, the Son of Dirghatamas and Usij"
+        },
+        "121": {
+            "stanzas": 15,
+            "group": "Hymns of Kaksivat, the Son of Dirghatamas and Usij"
+        },
+        "122": {
+            "stanzas": 15,
+            "group": "Hymns of Kaksivat, the Son of Dirghatamas and Usij"
+        },
+        "123": {
+            "stanzas": 13,
+            "group": "Hymns of Kaksivat, the Son of Dirghatamas and Usij"
+        },
+        "124": {
+            "stanzas": 13,
+            "group": "Hymns of Kaksivat, the Son of Dirghatamas and Usij"
+        },
+        "125": {
+            "stanzas": 7,
+            "group": "Hymns of Kaksivat, the Son of Dirghatamas and Usij"
+        },
+        "126": {
+            "stanzas": 7,
+            "group": "Hymns of Kaksivat, the Son of Dirghatamas and Usij"
+        },
+        "127": {
+            "stanzas": 11,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "128": {
+            "stanzas": 8,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "129": {
+            "stanzas": 11,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "130": {
+            "stanzas": 10,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "131": {
+            "stanzas": 7,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "132": {
+            "stanzas": 6,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "133": {
+            "stanzas": 7,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "134": {
+            "stanzas": 6,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "135": {
+            "stanzas": 9,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "136": {
+            "stanzas": 7,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "137": {
+            "stanzas": 3,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "138": {
+            "stanzas": 4,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "139": {
+            "stanzas": 12,
+            "group": "Hymns of Parucchepa, Son of Divodasa"
+        },
+        "140": {
+            "stanzas": 13,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "141": {
+            "stanzas": 13,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "142": {
+            "stanzas": 13,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "143": {
+            "stanzas": 8,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "144": {
+            "stanzas": 7,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "145": {
+            "stanzas": 5,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "146": {
+            "stanzas": 5,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "147": {
+            "stanzas": 5,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "148": {
+            "stanzas": 5,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "149": {
+            "stanzas": 5,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "150": {
+            "stanzas": 3,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "151": {
+            "stanzas": 9,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "152": {
+            "stanzas": 7,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "153": {
+            "stanzas": 4,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "154": {
+            "stanzas": 6,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "155": {
+            "stanzas": 6,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "156": {
+            "stanzas": 5,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "157": {
+            "stanzas": 6,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "158": {
+            "stanzas": 6,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "159": {
+            "stanzas": 5,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "160": {
+            "stanzas": 5,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "161": {
+            "stanzas": 14,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "162": {
+            "stanzas": 22,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "163": {
+            "stanzas": 13,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "164": {
+            "stanzas": 52,
+            "group": "Hymns of Dirghatamas, Son of Ucathya and Mamata"
+        },
+        "165": {
+            "stanzas": 15,
+            "group": "Hymns of Agastya"
+        },
+        "166": {
+            "stanzas": 15,
+            "group": "Hymns of Agastya"
+        },
+        "167": {
+            "stanzas": 11,
+            "group": "Hymns of Agastya"
+        },
+        "168": {
+            "stanzas": 10,
+            "group": "Hymns of Agastya"
+        },
+        "169": {
+            "stanzas": 8,
+            "group": "Hymns of Agastya"
+        },
+        "170": {
+            "stanzas": 5,
+            "group": "Hymns of Agastya"
+        },
+        "171": {
+            "stanzas": 6,
+            "group": "Hymns of Agastya"
+        },
+        "172": {
+            "stanzas": 3,
+            "group": "Hymns of Agastya"
+        },
+        "173": {
+            "stanzas": 13,
+            "group": "Hymns of Agastya"
+        },
+        "174": {
+            "stanzas": 10,
+            "group": "Hymns of Agastya"
+        },
+        "175": {
+            "stanzas": 6,
+            "group": "Hymns of Agastya"
+        },
+        "176": {
+            "stanzas": 6,
+            "group": "Hymns of Agastya"
+        },
+        "177": {
+            "stanzas": 5,
+            "group": "Hymns of Agastya"
+        },
+        "178": {
+            "stanzas": 5,
+            "group": "Hymns of Agastya"
+        },
+        "179": {
+            "stanzas": 6,
+            "group": "Hymns of Agastya"
+        },
+        "180": {
+            "stanzas": 10,
+            "group": "Hymns of Agastya"
+        },
+        "181": {
+            "stanzas": 9,
+            "group": "Hymns of Agastya"
+        },
+        "182": {
+            "stanzas": 8,
+            "group": "Hymns of Agastya"
+        },
+        "183": {
+            "stanzas": 6,
+            "group": "Hymns of Agastya"
+        },
+        "184": {
+            "stanzas": 6,
+            "group": "Hymns of Agastya"
+        },
+        "185": {
+            "stanzas": 11,
+            "group": "Hymns of Agastya"
+        },
+        "186": {
+            "stanzas": 11,
+            "group": "Hymns of Agastya"
+        },
+        "187": {
+            "stanzas": 11,
+            "group": "Hymns of Agastya"
+        },
+        "188": {
+            "stanzas": 11,
+            "group": "Hymns of Agastya"
+        },
+        "189": {
+            "stanzas": 8,
+            "group": "Hymns of Agastya"
+        },
+        "190": {
+            "stanzas": 8,
+            "group": "Hymns of Agastya"
+        },
+        "191": {
+            "stanzas": 16,
+            "group": "Hymns of Agastya"
+        }
+    },
+    "2": {
+        "1": {
+            "stanzas": 16,
+            "group": "Hymns to Agni"
+        },
+        "2": {
+            "stanzas": 13,
+            "group": "Hymns to Agni"
+        },
+        "3": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "4": {
+            "stanzas": 9,
+            "group": "Hymns to Agni"
+        },
+        "5": {
+            "stanzas": 8,
+            "group": "Hymns to Agni"
+        },
+        "6": {
+            "stanzas": 8,
+            "group": "Hymns to Agni"
+        },
+        "7": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "8": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "9": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "10": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "11": {
+            "stanzas": 21,
+            "group": "Hymns to Indra"
+        },
+        "12": {
+            "stanzas": 15,
+            "group": "Hymns to Indra"
+        },
+        "13": {
+            "stanzas": 13,
+            "group": "Hymns to Indra"
+        },
+        "14": {
+            "stanzas": 12,
+            "group": "Hymns to Indra"
+        },
+        "15": {
+            "stanzas": 10,
+            "group": "Hymns to Indra"
+        },
+        "16": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "17": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "18": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "19": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "20": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "21": {
+            "stanzas": 6,
+            "group": "Hymns to Indra"
+        },
+        "22": {
+            "stanzas": 4,
+            "group": "Hymns to Indra"
+        },
+        "23": {
+            "stanzas": 19,
+            "group": "Hymns to Brahmanaspati"
+        },
+        "24": {
+            "stanzas": 16,
+            "group": "Hymns to Brahmanaspati"
+        },
+        "25": {
+            "stanzas": 6,
+            "group": "Hymns to Brahmanaspati"
+        },
+        "26": {
+            "stanzas": 4,
+            "group": "Hymns to Brahmanaspati"
+        },
+        "27": {
+            "stanzas": 17,
+            "group": "Hymns to the Adityas"
+        },
+        "28": {
+            "stanzas": 11,
+            "group": "Hymns to the Adityas"
+        },
+        "29": {
+            "stanzas": 7,
+            "group": "Hymns to the Adityas"
+        },
+        "30": {
+            "stanzas": 11,
+            "group": "Hymns to Various Gods"
+        },
+        "31": {
+            "stanzas": 7,
+            "group": "Hymns to Various Gods"
+        },
+        "32": {
+            "stanzas": 8,
+            "group": "Hymns to Various Gods"
+        },
+        "33": {
+            "stanzas": 15,
+            "group": "Hymns to Various Gods"
+        },
+        "34": {
+            "stanzas": 15,
+            "group": "Hymns to Various Gods"
+        },
+        "35": {
+            "stanzas": 15,
+            "group": "Hymns to Various Gods"
+        },
+        "36": {
+            "stanzas": 6,
+            "group": "Hymns to Various Gods"
+        },
+        "37": {
+            "stanzas": 6,
+            "group": "Hymns to Various Gods"
+        },
+        "38": {
+            "stanzas": 11,
+            "group": "Hymns to Various Gods"
+        },
+        "39": {
+            "stanzas": 8,
+            "group": "Hymns to Various Gods"
+        },
+        "40": {
+            "stanzas": 6,
+            "group": "Hymns to Various Gods"
+        },
+        "41": {
+            "stanzas": 21,
+            "group": "Hymns to Various Gods"
+        },
+        "42": {
+            "stanzas": 3,
+            "group": "Hymns to Various Gods"
+        },
+        "43": {
+            "stanzas": 3,
+            "group": "Hymns to Various Gods"
+        }
+    },
+    "3": {
+        "1": {
+            "stanzas": 23,
+            "group": "Hymns to Agni"
+        },
+        "2": {
+            "stanzas": 15,
+            "group": "Hymns to Agni"
+        },
+        "3": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "4": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "5": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "6": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "7": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "8": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "9": {
+            "stanzas": 9,
+            "group": "Hymns to Agni"
+        },
+        "10": {
+            "stanzas": 9,
+            "group": "Hymns to Agni"
+        },
+        "11": {
+            "stanzas": 9,
+            "group": "Hymns to Agni"
+        },
+        "12": {
+            "stanzas": 9,
+            "group": "Hymns to Agni"
+        },
+        "13": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "14": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "15": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "16": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "17": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "18": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "19": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "20": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "21": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "22": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "23": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "24": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "25": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "26": {
+            "stanzas": 9,
+            "group": "Hymns to Agni"
+        },
+        "27": {
+            "stanzas": 16,
+            "group": "Hymns to Agni"
+        },
+        "28": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "29": {
+            "stanzas": 16,
+            "group": "Hymns to Agni"
+        },
+        "30": {
+            "stanzas": 22,
+            "group": "Hymns to Indra"
+        },
+        "31": {
+            "stanzas": 22,
+            "group": "Hymns to Indra"
+        },
+        "32": {
+            "stanzas": 17,
+            "group": "Hymns to Indra"
+        },
+        "33": {
+            "stanzas": 13,
+            "group": "Hymns to Indra"
+        },
+        "34": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "35": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "36": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "37": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "38": {
+            "stanzas": 10,
+            "group": "Hymns to Indra"
+        },
+        "39": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "40": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "41": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "42": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "43": {
+            "stanzas": 8,
+            "group": "Hymns to Indra"
+        },
+        "44": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "45": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "46": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "47": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "48": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "49": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "50": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "51": {
+            "stanzas": 12,
+            "group": "Hymns to Indra"
+        },
+        "52": {
+            "stanzas": 8,
+            "group": "Hymns to Indra"
+        },
+        "53": {
+            "stanzas": 24,
+            "group": "Hymns to Indra"
+        },
+        "54": {
+            "stanzas": 22,
+            "group": "Hymns to the Visvedevas"
+        },
+        "55": {
+            "stanzas": 22,
+            "group": "Hymns to the Visvedevas"
+        },
+        "56": {
+            "stanzas": 8,
+            "group": "Hymns to the Visvedevas"
+        },
+        "57": {
+            "stanzas": 6,
+            "group": "Hymns to the Visvedevas"
+        },
+        "58": {
+            "stanzas": 9,
+            "group": "Hymns to Various Gods"
+        },
+        "59": {
+            "stanzas": 9,
+            "group": "Hymns to Various Gods"
+        },
+        "60": {
+            "stanzas": 7,
+            "group": "Hymns to Various Gods"
+        },
+        "61": {
+            "stanzas": 7,
+            "group": "Hymns to Various Gods"
+        },
+        "62": {
+            "stanzas": 18,
+            "group": "Hymns to Various Gods"
+        }
+    },
+    "4": {
+        "1": {
+            "stanzas": 19,
+            "group": "Hymns to Agni"
+        },
+        "2": {
+            "stanzas": 20,
+            "group": "Hymns to Agni"
+        },
+        "3": {
+            "stanzas": 16,
+            "group": "Hymns to Agni"
+        },
+        "4": {
+            "stanzas": 15,
+            "group": "Hymns to Agni"
+        },
+        "5": {
+            "stanzas": 15,
+            "group": "Hymns to Agni"
+        },
+        "6": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "7": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "8": {
+            "stanzas": 8,
+            "group": "Hymns to Agni"
+        },
+        "9": {
+            "stanzas": 8,
+            "group": "Hymns to Agni"
+        },
+        "10": {
+            "stanzas": 8,
+            "group": "Hymns to Agni"
+        },
+        "11": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "12": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "13": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "14": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "15": {
+            "stanzas": 10,
+            "group": "Hymns to Agni"
+        },
+        "16": {
+            "stanzas": 21,
+            "group": "Hymns to Indra"
+        },
+        "17": {
+            "stanzas": 21,
+            "group": "Hymns to Indra"
+        },
+        "18": {
+            "stanzas": 13,
+            "group": "Hymns to Indra"
+        },
+        "19": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "20": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "21": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "22": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "23": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "24": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "25": {
+            "stanzas": 8,
+            "group": "Hymns to Indra"
+        },
+        "26": {
+            "stanzas": 7,
+            "group": "Hymns to Indra"
+        },
+        "27": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "28": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "29": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "30": {
+            "stanzas": 24,
+            "group": "Hymns to Indra"
+        },
+        "31": {
+            "stanzas": 15,
+            "group": "Hymns to Indra"
+        },
+        "32": {
+            "stanzas": 24,
+            "group": "Hymns to Indra"
+        },
+        "33": {
+            "stanzas": 11,
+            "group": "Hymns to the Ribhus"
+        },
+        "34": {
+            "stanzas": 11,
+            "group": "Hymns to the Ribhus"
+        },
+        "35": {
+            "stanzas": 9,
+            "group": "Hymns to the Ribhus"
+        },
+        "36": {
+            "stanzas": 9,
+            "group": "Hymns to the Ribhus"
+        },
+        "37": {
+            "stanzas": 8,
+            "group": "Hymns to the Ribhus"
+        },
+        "38": {
+            "stanzas": 10,
+            "group": "Hymns to Dadhikra"
+        },
+        "39": {
+            "stanzas": 6,
+            "group": "Hymns to Dadhikra"
+        },
+        "40": {
+            "stanzas": 5,
+            "group": "Hymns to Dadhikra"
+        },
+        "41": {
+            "stanzas": 11,
+            "group": "Hymns to Indra and Varanda"
+        },
+        "42": {
+            "stanzas": 10,
+            "group": "Hymns to Indra and Varanda"
+        },
+        "43": {
+            "stanzas": 7,
+            "group": "Hymns to the Asvins"
+        },
+        "44": {
+            "stanzas": 7,
+            "group": "Hymns to the Asvins"
+        },
+        "45": {
+            "stanzas": 7,
+            "group": "Hymns to the Asvins"
+        },
+        "46": {
+            "stanzas": 7,
+            "group": "Hymns to Vayu and Indra"
+        },
+        "47": {
+            "stanzas": 4,
+            "group": "Hymns to Vayu and Indra"
+        },
+        "48": {
+            "stanzas": 5,
+            "group": "Hymns to Vayu and Indra"
+        },
+        "49": {
+            "stanzas": 6,
+            "group": "Hymns to Brihaspati"
+        },
+        "50": {
+            "stanzas": 11,
+            "group": "Hymns to Brihaspati"
+        },
+        "51": {
+            "stanzas": 11,
+            "group": "Hymns to Usas"
+        },
+        "52": {
+            "stanzas": 7,
+            "group": "Hymns to Usas"
+        },
+        "53": {
+            "stanzas": 7,
+            "group": "Hymns to Savitri"
+        },
+        "54": {
+            "stanzas": 6,
+            "group": "Hymns to Savitri"
+        },
+        "55": {
+            "stanzas": 10,
+            "group": "Single Hymns"
+        },
+        "56": {
+            "stanzas": 7,
+            "group": "Single Hymns"
+        },
+        "57": {
+            "stanzas": 8,
+            "group": "Single Hymns"
+        },
+        "58": {
+            "stanzas": 11,
+            "group": "Single Hymns"
+        }
+    },
+    "5": {
+        "1": {
+            "stanzas": 12,
+            "group": "Hymns to Agni"
+        },
+        "2": {
+            "stanzas": 12,
+            "group": "Hymns to Agni"
+        },
+        "3": {
+            "stanzas": 12,
+            "group": "Hymns to Agni"
+        },
+        "4": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "5": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "6": {
+            "stanzas": 10,
+            "group": "Hymns to Agni"
+        },
+        "7": {
+            "stanzas": 10,
+            "group": "Hymns to Agni"
+        },
+        "8": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "9": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "10": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "11": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "12": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "13": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "14": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "15": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "16": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "17": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "18": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "19": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "20": {
+            "stanzas": 4,
+            "group": "Hymns to Agni"
+        },
+        "21": {
+            "stanzas": 4,
+            "group": "Hymns to Agni"
+        },
+        "22": {
+            "stanzas": 4,
+            "group": "Hymns to Agni"
+        },
+        "23": {
+            "stanzas": 4,
+            "group": "Hymns to Agni"
+        },
+        "24": {
+            "stanzas": 4,
+            "group": "Hymns to Agni"
+        },
+        "25": {
+            "stanzas": 9,
+            "group": "Hymns to Agni"
+        },
+        "26": {
+            "stanzas": 9,
+            "group": "Hymns to Agni"
+        },
+        "27": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "28": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "29": {
+            "stanzas": 15,
+            "group": "Hymns to Indra"
+        },
+        "30": {
+            "stanzas": 15,
+            "group": "Hymns to Indra"
+        },
+        "31": {
+            "stanzas": 13,
+            "group": "Hymns to Indra"
+        },
+        "32": {
+            "stanzas": 12,
+            "group": "Hymns to Indra"
+        },
+        "33": {
+            "stanzas": 10,
+            "group": "Hymns to Indra"
+        },
+        "34": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "35": {
+            "stanzas": 8,
+            "group": "Hymns to Indra"
+        },
+        "36": {
+            "stanzas": 6,
+            "group": "Hymns to Indra"
+        },
+        "37": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "38": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "39": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "40": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "41": {
+            "stanzas": 20,
+            "group": "Hymns to the All-Gods"
+        },
+        "42": {
+            "stanzas": 17,
+            "group": "Hymns to the All-Gods"
+        },
+        "43": {
+            "stanzas": 16,
+            "group": "Hymns to the All-Gods"
+        },
+        "44": {
+            "stanzas": 15,
+            "group": "Hymns to the All-Gods"
+        },
+        "45": {
+            "stanzas": 11,
+            "group": "Hymns to the All-Gods"
+        },
+        "46": {
+            "stanzas": 8,
+            "group": "Hymns to the All-Gods"
+        },
+        "47": {
+            "stanzas": 7,
+            "group": "Hymns to the All-Gods"
+        },
+        "48": {
+            "stanzas": 5,
+            "group": "Hymns to the All-Gods"
+        },
+        "49": {
+            "stanzas": 5,
+            "group": "Hymns to the All-Gods"
+        },
+        "50": {
+            "stanzas": 5,
+            "group": "Hymns to the All-Gods"
+        },
+        "51": {
+            "stanzas": 15,
+            "group": "Hymns to the All-Gods"
+        },
+        "52": {
+            "stanzas": 17,
+            "group": "Hymns of Syavasva to the Maruts"
+        },
+        "53": {
+            "stanzas": 16,
+            "group": "Hymns of Syavasva to the Maruts"
+        },
+        "54": {
+            "stanzas": 15,
+            "group": "Hymns of Syavasva to the Maruts"
+        },
+        "55": {
+            "stanzas": 10,
+            "group": "Hymns of Syavasva to the Maruts"
+        },
+        "56": {
+            "stanzas": 9,
+            "group": "Hymns of Syavasva to the Maruts"
+        },
+        "57": {
+            "stanzas": 8,
+            "group": "Hymns of Syavasva to the Maruts"
+        },
+        "58": {
+            "stanzas": 8,
+            "group": "Hymns of Syavasva to the Maruts"
+        },
+        "59": {
+            "stanzas": 8,
+            "group": "Hymns of Syavasva to the Maruts"
+        },
+        "60": {
+            "stanzas": 8,
+            "group": "Hymns of Syavasva to the Maruts"
+        },
+        "61": {
+            "stanzas": 19,
+            "group": "Hymns of Syavasva to the Maruts"
+        },
+        "62": {
+            "stanzas": 9,
+            "group": "Hymns to Mitra-Varuna"
+        },
+        "63": {
+            "stanzas": 7,
+            "group": "Hymns to Mitra-Varuna"
+        },
+        "64": {
+            "stanzas": 7,
+            "group": "Hymns to Mitra-Varuna"
+        },
+        "65": {
+            "stanzas": 6,
+            "group": "Hymns to Mitra-Varuna"
+        },
+        "66": {
+            "stanzas": 6,
+            "group": "Hymns to Mitra-Varuna"
+        },
+        "67": {
+            "stanzas": 5,
+            "group": "Hymns to Mitra-Varuna"
+        },
+        "68": {
+            "stanzas": 5,
+            "group": "Hymns to Mitra-Varuna"
+        },
+        "69": {
+            "stanzas": 4,
+            "group": "Hymns to Mitra-Varuna"
+        },
+        "70": {
+            "stanzas": 4,
+            "group": "Hymns to Mitra-Varuna"
+        },
+        "71": {
+            "stanzas": 3,
+            "group": "Hymns to Mitra-Varuna"
+        },
+        "72": {
+            "stanzas": 3,
+            "group": "Hymns to Mitra-Varuna"
+        },
+        "73": {
+            "stanzas": 10,
+            "group": "Hymns to the Asvins"
+        },
+        "74": {
+            "stanzas": 10,
+            "group": "Hymns to the Asvins"
+        },
+        "75": {
+            "stanzas": 9,
+            "group": "Hymns to the Asvins"
+        },
+        "76": {
+            "stanzas": 5,
+            "group": "Hymns to the Asvins"
+        },
+        "77": {
+            "stanzas": 5,
+            "group": "Hymns to the Asvins"
+        },
+        "78": {
+            "stanzas": 9,
+            "group": "Hymns to the Asvins"
+        },
+        "79": {
+            "stanzas": 10,
+            "group": "Hymns to Various Gods"
+        },
+        "80": {
+            "stanzas": 6,
+            "group": "Hymns to Various Gods"
+        },
+        "81": {
+            "stanzas": 5,
+            "group": "Hymns to Various Gods"
+        },
+        "82": {
+            "stanzas": 9,
+            "group": "Hymns to Various Gods"
+        },
+        "83": {
+            "stanzas": 10,
+            "group": "Hymns to Various Gods"
+        },
+        "84": {
+            "stanzas": 3,
+            "group": "Hymns to Various Gods"
+        },
+        "85": {
+            "stanzas": 8,
+            "group": "Hymns to Various Gods"
+        },
+        "86": {
+            "stanzas": 6,
+            "group": "Hymns to Various Gods"
+        },
+        "87": {
+            "stanzas": 9,
+            "group": "Hymns to Various Gods"
+        }
+    },
+    "6": {
+        "1": {
+            "stanzas": 13,
+            "group": "Hymns to Agni"
+        },
+        "2": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "3": {
+            "stanzas": 8,
+            "group": "Hymns to Agni"
+        },
+        "4": {
+            "stanzas": 8,
+            "group": "Hymns to Agni"
+        },
+        "5": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "6": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "7": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "8": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "9": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "10": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "11": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "12": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "13": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "14": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "15": {
+            "stanzas": 19,
+            "group": "Hymns to Agni"
+        },
+        "16": {
+            "stanzas": 48,
+            "group": "Hymns to Agni"
+        },
+        "17": {
+            "stanzas": 15,
+            "group": "Hymns to Indra"
+        },
+        "18": {
+            "stanzas": 15,
+            "group": "Hymns to Indra"
+        },
+        "19": {
+            "stanzas": 13,
+            "group": "Hymns to Indra"
+        },
+        "20": {
+            "stanzas": 13,
+            "group": "Hymns to Indra"
+        },
+        "21": {
+            "stanzas": 12,
+            "group": "Hymns to Indra"
+        },
+        "22": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "23": {
+            "stanzas": 10,
+            "group": "Hymns to Indra"
+        },
+        "24": {
+            "stanzas": 10,
+            "group": "Hymns to Indra"
+        },
+        "25": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "26": {
+            "stanzas": 8,
+            "group": "Hymns to Indra"
+        },
+        "27": {
+            "stanzas": 8,
+            "group": "Hymns to Indra"
+        },
+        "28": {
+            "stanzas": 8,
+            "group": "Hymns to Indra"
+        },
+        "29": {
+            "stanzas": 6,
+            "group": "Hymns to Indra"
+        },
+        "30": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "31": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "32": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "33": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "34": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "35": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "36": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "37": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "38": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "39": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "40": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "41": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "42": {
+            "stanzas": 4,
+            "group": "Hymns to Indra"
+        },
+        "43": {
+            "stanzas": 4,
+            "group": "Hymns to Indra"
+        },
+        "44": {
+            "stanzas": 24,
+            "group": "Hymns to Indra"
+        },
+        "45": {
+            "stanzas": 34,
+            "group": "Hymns to Indra"
+        },
+        "46": {
+            "stanzas": 14,
+            "group": "Hymns to Indra"
+        },
+        "47": {
+            "stanzas": 31,
+            "group": "Hymns to Indra"
+        },
+        "48": {
+            "stanzas": 22,
+            "group": "Hymns to Indra"
+        },
+        "49": {
+            "stanzas": 15,
+            "group": "Hymns to All the Gods"
+        },
+        "50": {
+            "stanzas": 15,
+            "group": "Hymns to All the Gods"
+        },
+        "51": {
+            "stanzas": 16,
+            "group": "Hymns to All the Gods"
+        },
+        "52": {
+            "stanzas": 17,
+            "group": "Hymns to All the Gods"
+        },
+        "53": {
+            "stanzas": 10,
+            "group": "Hymns to Pusan"
+        },
+        "54": {
+            "stanzas": 10,
+            "group": "Hymns to Pusan"
+        },
+        "55": {
+            "stanzas": 6,
+            "group": "Hymns to Pusan"
+        },
+        "56": {
+            "stanzas": 6,
+            "group": "Hymns to Pusan"
+        },
+        "57": {
+            "stanzas": 6,
+            "group": "Hymns to Pusan"
+        },
+        "58": {
+            "stanzas": 4,
+            "group": "Hymns to Pusan"
+        },
+        "59": {
+            "stanzas": 10,
+            "group": "Hymns to Various Gods"
+        },
+        "60": {
+            "stanzas": 15,
+            "group": "Hymns to Various Gods"
+        },
+        "61": {
+            "stanzas": 14,
+            "group": "Hymns to Various Gods"
+        },
+        "62": {
+            "stanzas": 11,
+            "group": "Hymns to Various Gods"
+        },
+        "63": {
+            "stanzas": 11,
+            "group": "Hymns to Various Gods"
+        },
+        "64": {
+            "stanzas": 6,
+            "group": "Hymns to Various Gods"
+        },
+        "65": {
+            "stanzas": 6,
+            "group": "Hymns to Various Gods"
+        },
+        "66": {
+            "stanzas": 11,
+            "group": "Hymns to Various Gods"
+        },
+        "67": {
+            "stanzas": 11,
+            "group": "Hymns to Various Gods"
+        },
+        "68": {
+            "stanzas": 11,
+            "group": "Hymns to Various Gods"
+        },
+        "69": {
+            "stanzas": 8,
+            "group": "Hymns to Various Gods"
+        },
+        "70": {
+            "stanzas": 6,
+            "group": "Hymns to Various Gods"
+        },
+        "71": {
+            "stanzas": 6,
+            "group": "Hymns to Various Gods"
+        },
+        "72": {
+            "stanzas": 5,
+            "group": "Hymns to Various Gods"
+        },
+        "73": {
+            "stanzas": 3,
+            "group": "Hymns to Various Gods"
+        },
+        "74": {
+            "stanzas": 4,
+            "group": "Hymns to Various Gods"
+        },
+        "75": {
+            "stanzas": 19,
+            "group": "Hymns to Various Gods"
+        }
+    },
+    "7": {
+        "1": {
+            "stanzas": 25,
+            "group": "Hymns to Agni"
+        },
+        "2": {
+            "stanzas": 11,
+            "group": "Hymns to Agni"
+        },
+        "3": {
+            "stanzas": 10,
+            "group": "Hymns to Agni"
+        },
+        "4": {
+            "stanzas": 10,
+            "group": "Hymns to Agni"
+        },
+        "5": {
+            "stanzas": 9,
+            "group": "Hymns to Agni"
+        },
+        "6": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "7": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "8": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "9": {
+            "stanzas": 6,
+            "group": "Hymns to Agni"
+        },
+        "10": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "11": {
+            "stanzas": 5,
+            "group": "Hymns to Agni"
+        },
+        "12": {
+            "stanzas": 3,
+            "group": "Hymns to Agni"
+        },
+        "13": {
+            "stanzas": 3,
+            "group": "Hymns to Agni"
+        },
+        "14": {
+            "stanzas": 3,
+            "group": "Hymns to Agni"
+        },
+        "15": {
+            "stanzas": 15,
+            "group": "Hymns to Agni"
+        },
+        "16": {
+            "stanzas": 12,
+            "group": "Hymns to Agni"
+        },
+        "17": {
+            "stanzas": 7,
+            "group": "Hymns to Agni"
+        },
+        "18": {
+            "stanzas": 25,
+            "group": "Hymns to Indra"
+        },
+        "19": {
+            "stanzas": 11,
+            "group": "Hymns to Indra"
+        },
+        "20": {
+            "stanzas": 10,
+            "group": "Hymns to Indra"
+        },
+        "21": {
+            "stanzas": 10,
+            "group": "Hymns to Indra"
+        },
+        "22": {
+            "stanzas": 9,
+            "group": "Hymns to Indra"
+        },
+        "23": {
+            "stanzas": 6,
+            "group": "Hymns to Indra"
+        },
+        "24": {
+            "stanzas": 6,
+            "group": "Hymns to Indra"
+        },
+        "25": {
+            "stanzas": 6,
+            "group": "Hymns to Indra"
+        },
+        "26": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "27": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "28": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "29": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "30": {
+            "stanzas": 5,
+            "group": "Hymns to Indra"
+        },
+        "31": {
+            "stanzas": 12,
+            "group": "Hymns to Indra"
+        },
+        "32": {
+            "stanzas": 27,
+            "group": "Hymns to Indra"
+        },
+        "33": {
+            "stanzas": 14,
+            "group": "Hymns to Indra"
+        },
+        "34": {
+            "stanzas": 25,
+            "group": "Hymns to All the Gods"
+        },
+        "35": {
+            "stanzas": 15,
+            "group": "Hymns to All the Gods"
+        },
+        "36": {
+            "stanzas": 9,
+            "group": "Hymns to All the Gods"
+        },
+        "37": {
+            "stanzas": 8,
+            "group": "Hymns to All the Gods"
+        },
+        "38": {
+            "stanzas": 8,
+            "group": "Hymns to All the Gods"
+        },
+        "39": {
+            "stanzas": 7,
+            "group": "Hymns to All the Gods"
+        },
+        "40": {
+            "stanzas": 7,
+            "group": "Hymns to All the Gods"
+        },
+        "41": {
+            "stanzas": 7,
+            "group": "Hymns to All the Gods"
+        },
+        "42": {
+            "stanzas": 6,
+            "group": "Hymns to All the Gods"
+        },
+        "43": {
+            "stanzas": 5,
+            "group": "Hymns to All the Gods"
+        },
+        "44": {
+            "stanzas": 5,
+            "group": "Hymns to All the Gods"
+        },
+        "45": {
+            "stanzas": 4,
+            "group": "Hymns to All the Gods"
+        },
+        "46": {
+            "stanzas": 4,
+            "group": "Hymns to All the Gods"
+        },
+        "47": {
+            "stanzas": 4,
+            "group": "Hymns to All the Gods"
+        },
+        "48": {
+            "stanzas": 4,
+            "group": "Hymns to All the Gods"
+        },
+        "49": {
+            "stanzas": 4,
+            "group": "Hymns to All the Gods"
+        },
+        "50": {
+            "stanzas": 4,
+            "group": "Hymns to All the Gods"
+        },
+        "51": {
+            "stanzas": 3,
+            "group": "Hymns to All the Gods"
+        },
+        "52": {
+            "stanzas": 3,
+            "group": "Hymns to All the Gods"
+        },
+        "53": {
+            "stanzas": 3,
+            "group": "Hymns to All the Gods"
+        },
+        "54": {
+            "stanzas": 3,
+            "group": "Hymns to All the Gods"
+        },
+        "55": {
+            "stanzas": 8,
+            "group": "Hymns to All the Gods"
+        },
+        "56": {
+            "stanzas": 26,
+            "group": "Hymns to the Maruts"
+        },
+        "57": {
+            "stanzas": 7,
+            "group": "Hymns to the Maruts"
+        },
+        "58": {
+            "stanzas": 6,
+            "group": "Hymns to the Maruts"
+        },
+        "59": {
+            "stanzas": 12,
+            "group": "Hymns to the Maruts"
+        },
+        "60": {
+            "stanzas": 12,
+            "group": "Hymns to Mitra and Varuna"
+        },
+        "61": {
+            "stanzas": 7,
+            "group": "Hymns to Mitra and Varuna"
+        },
+        "62": {
+            "stanzas": 6,
+            "group": "Hymns to Mitra and Varuna"
+        },
+        "63": {
+            "stanzas": 6,
+            "group": "Hymns to Mitra and Varuna"
+        },
+        "64": {
+            "stanzas": 5,
+            "group": "Hymns to Mitra and Varuna"
+        },
+        "65": {
+            "stanzas": 5,
+            "group": "Hymns to Mitra and Varuna"
+        },
+        "66": {
+            "stanzas": 19,
+            "group": "Hymns to Mitra and Varuna"
+        },
+        "67": {
+            "stanzas": 10,
+            "group": "Hymns to the Asvins"
+        },
+        "68": {
+            "stanzas": 9,
+            "group": "Hymns to the Asvins"
+        },
+        "69": {
+            "stanzas": 8,
+            "group": "Hymns to the Asvins"
+        },
+        "70": {
+            "stanzas": 7,
+            "group": "Hymns to the Asvins"
+        },
+        "71": {
+            "stanzas": 6,
+            "group": "Hymns to the Asvins"
+        },
+        "72": {
+            "stanzas": 5,
+            "group": "Hymns to the Asvins"
+        },
+        "73": {
+            "stanzas": 5,
+            "group": "Hymns to the Asvins"
+        },
+        "74": {
+            "stanzas": 6,
+            "group": "Hymns to the Asvins"
+        },
+        "75": {
+            "stanzas": 8,
+            "group": "Hymns to Usas"
+        },
+        "76": {
+            "stanzas": 7,
+            "group": "Hymns to Usas"
+        },
+        "77": {
+            "stanzas": 6,
+            "group": "Hymns to Usas"
+        },
+        "78": {
+            "stanzas": 5,
+            "group": "Hymns to Usas"
+        },
+        "79": {
+            "stanzas": 5,
+            "group": "Hymns to Usas"
+        },
+        "80": {
+            "stanzas": 3,
+            "group": "Hymns to Usas"
+        },
+        "81": {
+            "stanzas": 6,
+            "group": "Hymns to Usas"
+        },
+        "82": {
+            "stanzas": 11,
+            "group": "Hymns to Indra and Varuna"
+        },
+        "83": {
+            "stanzas": 10,
+            "group": "Hymns to Indra and Varuna"
+        },
+        "84": {
+            "stanzas": 5,
+            "group": "Hymns to Indra and Varuna"
+        },
+        "85": {
+            "stanzas": 5,
+            "group": "Hymns to Indra and Varuna"
+        },
+        "86": {
+            "stanzas": 8,
+            "group": "Hymns to Varuna"
+        },
+        "87": {
+            "stanzas": 7,
+            "group": "Hymns to Varuna"
+        },
+        "88": {
+            "stanzas": 7,
+            "group": "Hymns to Varuna"
+        },
+        "89": {
+            "stanzas": 5,
+            "group": "Hymns to Varuna"
+        },
+        "90": {
+            "stanzas": 7,
+            "group": "Hymns to Divine Pairs"
+        },
+        "91": {
+            "stanzas": 7,
+            "group": "Hymns to Divine Pairs"
+        },
+        "92": {
+            "stanzas": 5,
+            "group": "Hymns to Divine Pairs"
+        },
+        "93": {
+            "stanzas": 8,
+            "group": "Hymns to Divine Pairs"
+        },
+        "94": {
+            "stanzas": 12,
+            "group": "Hymns to Divine Pairs"
+        },
+        "95": {
+            "stanzas": 6,
+            "group": "Hymns to Divine Pairs"
+        },
+        "96": {
+            "stanzas": 6,
+            "group": "Hymns to Divine Pairs"
+        },
+        "97": {
+            "stanzas": 10,
+            "group": "Hymns to Divine Pairs"
+        },
+        "98": {
+            "stanzas": 7,
+            "group": "Hymns to Divine Pairs"
+        },
+        "99": {
+            "stanzas": 7,
+            "group": "Hymns to Vishnu"
+        },
+        "100": {
+            "stanzas": 7,
+            "group": "Hymns to Vishnu"
+        },
+        "101": {
+            "stanzas": 6,
+            "group": "Hymns to Parjanya / Appendix"
+        },
+        "102": {
+            "stanzas": 3,
+            "group": "Hymns to Parjanya / Appendix"
+        },
+        "103": {
+            "stanzas": 10,
+            "group": "Hymns to Parjanya / Appendix"
+        },
+        "104": {
+            "stanzas": 25,
+            "group": "Hymns to Parjanya / Appendix"
+        }
+    },
+    "8": {
+        "1": {
+            "stanzas": 34,
+            "group": "Hymns of Priyamedha's, Medyatithi Etc."
+        },
+        "2": {
+            "stanzas": 42,
+            "group": "Hymns of Priyamedha's, Medyatithi Etc."
+        },
+        "3": {
+            "stanzas": 24,
+            "group": "Hymns of Priyamedha's, Medyatithi Etc."
+        },
+        "4": {
+            "stanzas": 21,
+            "group": "Hymns of Priyamedha's, Medyatithi Etc."
+        },
+        "5": {
+            "stanzas": 39,
+            "group": "Hymns of Priyamedha's, Medyatithi Etc."
+        },
+        "6": {
+            "stanzas": 48,
+            "group": "Hymns of Vatsa"
+        },
+        "7": {
+            "stanzas": 36,
+            "group": "Hymns of Vatsa"
+        },
+        "8": {
+            "stanzas": 23,
+            "group": "Hymns of Vatsa"
+        },
+        "9": {
+            "stanzas": 21,
+            "group": "Hymns of Vatsa"
+        },
+        "10": {
+            "stanzas": 6,
+            "group": "Hymns of Vatsa"
+        },
+        "11": {
+            "stanzas": 10,
+            "group": "Hymns of Vatsa"
+        },
+        "12": {
+            "stanzas": 33,
+            "group": "Various Sons of Kanva"
+        },
+        "13": {
+            "stanzas": 33,
+            "group": "Various Sons of Kanva"
+        },
+        "14": {
+            "stanzas": 15,
+            "group": "Various Sons of Kanva"
+        },
+        "15": {
+            "stanzas": 13,
+            "group": "Various Sons of Kanva"
+        },
+        "16": {
+            "stanzas": 12,
+            "group": "Various Sons of Kanva"
+        },
+        "17": {
+            "stanzas": 15,
+            "group": "Various Sons of Kanva"
+        },
+        "18": {
+            "stanzas": 22,
+            "group": "Various Sons of Kanva"
+        },
+        "19": {
+            "stanzas": 37,
+            "group": "Hymns of Sobhari"
+        },
+        "20": {
+            "stanzas": 26,
+            "group": "Hymns of Sobhari"
+        },
+        "21": {
+            "stanzas": 18,
+            "group": "Hymns of Sobhari"
+        },
+        "22": {
+            "stanzas": 18,
+            "group": "Hymns of Sobhari"
+        },
+        "23": {
+            "stanzas": 30,
+            "group": "Hymns of Vyasva"
+        },
+        "24": {
+            "stanzas": 30,
+            "group": "Hymns of Vyasva"
+        },
+        "25": {
+            "stanzas": 24,
+            "group": "Hymns of Vyasva"
+        },
+        "26": {
+            "stanzas": 25,
+            "group": "Hymns of Vyasva"
+        },
+        "27": {
+            "stanzas": 22,
+            "group": "Hymns of Manu Vaivasvata"
+        },
+        "28": {
+            "stanzas": 5,
+            "group": "Hymns of Manu Vaivasvata"
+        },
+        "29": {
+            "stanzas": 10,
+            "group": "Hymns of Manu Vaivasvata"
+        },
+        "30": {
+            "stanzas": 4,
+            "group": "Hymns of Manu Vaivasvata"
+        },
+        "31": {
+            "stanzas": 18,
+            "group": "Hymns of Manu Vaivasvata"
+        },
+        "32": {
+            "stanzas": 30,
+            "group": "Hymns of Medhatithi and Other Kanva Sons"
+        },
+        "33": {
+            "stanzas": 19,
+            "group": "Hymns of Medhatithi and Other Kanva Sons"
+        },
+        "34": {
+            "stanzas": 18,
+            "group": "Hymns of Medhatithi and Other Kanva Sons"
+        },
+        "35": {
+            "stanzas": 24,
+            "group": "Hymns of Syavasva"
+        },
+        "36": {
+            "stanzas": 7,
+            "group": "Hymns of Syavasva"
+        },
+        "37": {
+            "stanzas": 7,
+            "group": "Hymns of Syavasva"
+        },
+        "38": {
+            "stanzas": 10,
+            "group": "Hymns of Syavasva"
+        },
+        "39": {
+            "stanzas": 10,
+            "group": "Hymns of Nabhaka"
+        },
+        "40": {
+            "stanzas": 12,
+            "group": "Hymns of Nabhaka"
+        },
+        "41": {
+            "stanzas": 10,
+            "group": "Hymns of Nabhaka"
+        },
+        "42": {
+            "stanzas": 6,
+            "group": "Hymns of Nabhaka"
+        },
+        "43": {
+            "stanzas": 33,
+            "group": "Hymns of Virupa, Vasa and Others"
+        },
+        "44": {
+            "stanzas": 30,
+            "group": "Hymns of Virupa, Vasa and Others"
+        },
+        "45": {
+            "stanzas": 42,
+            "group": "Hymns of Virupa, Vasa and Others"
+        },
+        "46": {
+            "stanzas": 33,
+            "group": "Hymns of Virupa, Vasa and Others"
+        },
+        "47": {
+            "stanzas": 18,
+            "group": "Hymns of Virupa, Vasa and Others"
+        },
+        "48": {
+            "stanzas": 15,
+            "group": "Hymns of Virupa, Vasa and Others"
+        },
+        "49": {
+            "stanzas": 10,
+            "group": "Valakhilya-Hymns"
+        },
+        "50": {
+            "stanzas": 10,
+            "group": "Valakhilya-Hymns"
+        },
+        "51": {
+            "stanzas": 10,
+            "group": "Valakhilya-Hymns"
+        },
+        "52": {
+            "stanzas": 10,
+            "group": "Valakhilya-Hymns"
+        },
+        "53": {
+            "stanzas": 8,
+            "group": "Valakhilya-Hymns"
+        },
+        "54": {
+            "stanzas": 8,
+            "group": "Valakhilya-Hymns"
+        },
+        "55": {
+            "stanzas": 5,
+            "group": "Valakhilya-Hymns"
+        },
+        "56": {
+            "stanzas": 5,
+            "group": "Valakhilya-Hymns"
+        },
+        "57": {
+            "stanzas": 4,
+            "group": "Valakhilya-Hymns"
+        },
+        "58": {
+            "stanzas": 3,
+            "group": "Valakhilya-Hymns"
+        },
+        "59": {
+            "stanzas": 7,
+            "group": "Valakhilya-Hymns"
+        },
+        "60": {
+            "stanzas": 20,
+            "group": "Hymns of Pragatha and Other Kanva-Sons"
+        },
+        "61": {
+            "stanzas": 18,
+            "group": "Hymns of Pragatha and Other Kanva-Sons"
+        },
+        "62": {
+            "stanzas": 12,
+            "group": "Hymns of Pragatha and Other Kanva-Sons"
+        },
+        "63": {
+            "stanzas": 12,
+            "group": "Hymns of Pragatha and Other Kanva-Sons"
+        },
+        "64": {
+            "stanzas": 12,
+            "group": "Hymns of Pragatha and Other Kanva-Sons"
+        },
+        "65": {
+            "stanzas": 12,
+            "group": "Hymns of Pragatha and Other Kanva-Sons"
+        },
+        "66": {
+            "stanzas": 15,
+            "group": "Hymns of Pragatha and Other Kanva-Sons"
+        },
+        "67": {
+            "stanzas": 21,
+            "group": "Hymns of Priyamedha and Others"
+        },
+        "68": {
+            "stanzas": 19,
+            "group": "Hymns of Priyamedha and Others"
+        },
+        "69": {
+            "stanzas": 18,
+            "group": "Hymns of Priyamedha and Others"
+        },
+        "70": {
+            "stanzas": 15,
+            "group": "Hymns of Priyamedha and Others"
+        },
+        "71": {
+            "stanzas": 15,
+            "group": "Hymns of Priyamedha and Others"
+        },
+        "72": {
+            "stanzas": 18,
+            "group": "Hymns of Gopavana and Other Sons of Atri"
+        },
+        "73": {
+            "stanzas": 18,
+            "group": "Hymns of Gopavana and Other Sons of Atri"
+        },
+        "74": {
+            "stanzas": 15,
+            "group": "Hymns of Gopavana and Other Sons of Atri"
+        },
+        "75": {
+            "stanzas": 16,
+            "group": "Hymns of Virupa and Others"
+        },
+        "76": {
+            "stanzas": 12,
+            "group": "Hymns of Virupa and Others"
+        },
+        "77": {
+            "stanzas": 11,
+            "group": "Hymns of Virupa and Others"
+        },
+        "78": {
+            "stanzas": 10,
+            "group": "Hymns of Virupa and Others"
+        },
+        "79": {
+            "stanzas": 9,
+            "group": "Hymns of Virupa and Others"
+        },
+        "80": {
+            "stanzas": 10,
+            "group": "Hymns of Ekadyu, Krishna and Others"
+        },
+        "81": {
+            "stanzas": 9,
+            "group": "Hymns of Ekadyu, Krishna and Others"
+        },
+        "82": {
+            "stanzas": 9,
+            "group": "Hymns of Ekadyu, Krishna and Others"
+        },
+        "83": {
+            "stanzas": 9,
+            "group": "Hymns of Ekadyu, Krishna and Others"
+        },
+        "84": {
+            "stanzas": 9,
+            "group": "Hymns of Ekadyu, Krishna and Others"
+        },
+        "85": {
+            "stanzas": 9,
+            "group": "Hymns of Ekadyu, Krishna and Others"
+        },
+        "86": {
+            "stanzas": 5,
+            "group": "Hymns of Ekadyu, Krishna and Others"
+        },
+        "87": {
+            "stanzas": 6,
+            "group": "Hymns of Ekadyu, Krishna and Others"
+        },
+        "88": {
+            "stanzas": 6,
+            "group": "Hymns of Nodhas"
+        },
+        "89": {
+            "stanzas": 7,
+            "group": "Hymns of Nodhas"
+        },
+        "90": {
+            "stanzas": 6,
+            "group": "Hymns of Nodhas"
+        },
+        "91": {
+            "stanzas": 7,
+            "group": "Hymns of Nodhas"
+        },
+        "92": {
+            "stanzas": 33,
+            "group": "Hymns of Srutakaksu and Others"
+        },
+        "93": {
+            "stanzas": 34,
+            "group": "Hymns of Srutakaksu and Others"
+        },
+        "94": {
+            "stanzas": 12,
+            "group": "Hymns of Srutakaksu and Others"
+        },
+        "95": {
+            "stanzas": 9,
+            "group": "Tirasci and Other Poets"
+        },
+        "96": {
+            "stanzas": 21,
+            "group": "Tirasci and Other Poets"
+        },
+        "97": {
+            "stanzas": 15,
+            "group": "Tirasci and Other Poets"
+        },
+        "98": {
+            "stanzas": 12,
+            "group": "Tirasci and Other Poets"
+        },
+        "99": {
+            "stanzas": 8,
+            "group": "Tirasci and Other Poets"
+        },
+        "100": {
+            "stanzas": 12,
+            "group": "Tirasci and Other Poets"
+        },
+        "101": {
+            "stanzas": 16,
+            "group": "Tirasci and Other Poets"
+        },
+        "102": {
+            "stanzas": 21,
+            "group": "Tirasci and Other Poets"
+        },
+        "103": {
+            "stanzas": 14,
+            "group": "Tirasci and Other Poets"
+        }
+    },
+    "9": {
+        "1": {
+            "stanzas": 10,
+            "group": "Tirasci and Other Poets"
+        },
+        "2": {
+            "stanzas": 10,
+            "group": "Tirasci and Other Poets"
+        },
+        "3": {
+            "stanzas": 10,
+            "group": "Tirasci and Other Poets"
+        },
+        "4": {
+            "stanzas": 10,
+            "group": "Tirasci and Other Poets"
+        },
+        "5": {
+            "stanzas": 11,
+            "group": "Tirasci and Other Poets"
+        },
+        "6": {
+            "stanzas": 9,
+            "group": "Tirasci and Other Poets"
+        },
+        "7": {
+            "stanzas": 9,
+            "group": "Tirasci and Other Poets"
+        },
+        "8": {
+            "stanzas": 9,
+            "group": "Tirasci and Other Poets"
+        },
+        "9": {
+            "stanzas": 9,
+            "group": "Tirasci and Other Poets"
+        },
+        "10": {
+            "stanzas": 9,
+            "group": "Tirasci and Other Poets"
+        },
+        "11": {
+            "stanzas": 9,
+            "group": "Tirasci and Other Poets"
+        },
+        "12": {
+            "stanzas": 9,
+            "group": "Tirasci and Other Poets"
+        },
+        "13": {
+            "stanzas": 9,
+            "group": "Tirasci and Other Poets"
+        },
+        "14": {
+            "stanzas": 8,
+            "group": "Tirasci and Other Poets"
+        },
+        "15": {
+            "stanzas": 8,
+            "group": "Tirasci and Other Poets"
+        },
+        "16": {
+            "stanzas": 8,
+            "group": "Tirasci and Other Poets"
+        },
+        "17": {
+            "stanzas": 8,
+            "group": "Tirasci and Other Poets"
+        },
+        "18": {
+            "stanzas": 7,
+            "group": "Tirasci and Other Poets"
+        },
+        "19": {
+            "stanzas": 7,
+            "group": "Tirasci and Other Poets"
+        },
+        "20": {
+            "stanzas": 7,
+            "group": "Tirasci and Other Poets"
+        },
+        "21": {
+            "stanzas": 7,
+            "group": "Tirasci and Other Poets"
+        },
+        "22": {
+            "stanzas": 7,
+            "group": "Tirasci and Other Poets"
+        },
+        "23": {
+            "stanzas": 7,
+            "group": "Tirasci and Other Poets"
+        },
+        "24": {
+            "stanzas": 7,
+            "group": "Tirasci and Other Poets"
+        },
+        "25": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "26": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "27": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "28": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "29": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "30": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "31": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "32": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "33": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "34": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "35": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "36": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "37": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "38": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "39": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "40": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "41": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "42": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "43": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "44": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "45": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "46": {
+            "stanzas": 6,
+            "group": "Tirasci and Other Poets"
+        },
+        "47": {
+            "stanzas": 5,
+            "group": "Tirasci and Other Poets"
+        },
+        "48": {
+            "stanzas": 5,
+            "group": "Tirasci and Other Poets"
+        },
+        "49": {
+            "stanzas": 5,
+            "group": "Tirasci and Other Poets"
+        },
+        "50": {
+            "stanzas": 5,
+            "group": "Tirasci and Other Poets"
+        },
+        "51": {
+            "stanzas": 5,
+            "group": "Tirasci and Other Poets"
+        },
+        "52": {
+            "stanzas": 5,
+            "group": "Tirasci and Other Poets"
+        },
+        "53": {
+            "stanzas": 4,
+            "group": "Tirasci and Other Poets"
+        },
+        "54": {
+            "stanzas": 4,
+            "group": "Tirasci and Other Poets"
+        },
+        "55": {
+            "stanzas": 4,
+            "group": "Tirasci and Other Poets"
+        },
+        "56": {
+            "stanzas": 4,
+            "group": "Tirasci and Other Poets"
+        },
+        "57": {
+            "stanzas": 4,
+            "group": "Tirasci and Other Poets"
+        },
+        "58": {
+            "stanzas": 4,
+            "group": "Tirasci and Other Poets"
+        },
+        "59": {
+            "stanzas": 4,
+            "group": "Tirasci and Other Poets"
+        },
+        "60": {
+            "stanzas": 4,
+            "group": "Tirasci and Other Poets"
+        },
+        "61": {
+            "stanzas": 30,
+            "group": "Tirasci and Other Poets"
+        },
+        "62": {
+            "stanzas": 30,
+            "group": "Tirasci and Other Poets"
+        },
+        "63": {
+            "stanzas": 30,
+            "group": "Tirasci and Other Poets"
+        },
+        "64": {
+            "stanzas": 30,
+            "group": "Tirasci and Other Poets"
+        },
+        "65": {
+            "stanzas": 30,
+            "group": "Tirasci and Other Poets"
+        },
+        "66": {
+            "stanzas": 30,
+            "group": "Tirasci and Other Poets"
+        },
+        "67": {
+            "stanzas": 32,
+            "group": "Tirasci and Other Poets"
+        },
+        "68": {
+            "stanzas": 10,
+            "group": "The Jagati Group"
+        },
+        "69": {
+            "stanzas": 10,
+            "group": "The Jagati Group"
+        },
+        "70": {
+            "stanzas": 10,
+            "group": "The Jagati Group"
+        },
+        "71": {
+            "stanzas": 9,
+            "group": "The Jagati Group"
+        },
+        "72": {
+            "stanzas": 9,
+            "group": "The Jagati Group"
+        },
+        "73": {
+            "stanzas": 9,
+            "group": "The Jagati Group"
+        },
+        "74": {
+            "stanzas": 9,
+            "group": "The Jagati Group"
+        },
+        "75": {
+            "stanzas": 5,
+            "group": "The Jagati Group"
+        },
+        "76": {
+            "stanzas": 5,
+            "group": "The Jagati Group"
+        },
+        "77": {
+            "stanzas": 5,
+            "group": "The Jagati Group"
+        },
+        "78": {
+            "stanzas": 5,
+            "group": "The Jagati Group"
+        },
+        "79": {
+            "stanzas": 5,
+            "group": "The Jagati Group"
+        },
+        "80": {
+            "stanzas": 5,
+            "group": "The Jagati Group"
+        },
+        "81": {
+            "stanzas": 5,
+            "group": "The Jagati Group"
+        },
+        "82": {
+            "stanzas": 5,
+            "group": "The Jagati Group"
+        },
+        "83": {
+            "stanzas": 5,
+            "group": "The Jagati Group"
+        },
+        "84": {
+            "stanzas": 5,
+            "group": "The Jagati Group"
+        },
+        "85": {
+            "stanzas": 12,
+            "group": "The Jagati Group"
+        },
+        "86": {
+            "stanzas": 48,
+            "group": "The Jagati Group"
+        },
+        "87": {
+            "stanzas": 9,
+            "group": "The Tristubh Group"
+        },
+        "88": {
+            "stanzas": 8,
+            "group": "The Tristubh Group"
+        },
+        "89": {
+            "stanzas": 7,
+            "group": "The Tristubh Group"
+        },
+        "90": {
+            "stanzas": 6,
+            "group": "The Tristubh Group"
+        },
+        "91": {
+            "stanzas": 6,
+            "group": "The Tristubh Group"
+        },
+        "92": {
+            "stanzas": 6,
+            "group": "The Tristubh Group"
+        },
+        "93": {
+            "stanzas": 5,
+            "group": "The Tristubh Group"
+        },
+        "94": {
+            "stanzas": 5,
+            "group": "The Tristubh Group"
+        },
+        "95": {
+            "stanzas": 5,
+            "group": "The Tristubh Group"
+        },
+        "96": {
+            "stanzas": 24,
+            "group": "The Tristubh Group"
+        },
+        "97": {
+            "stanzas": 58,
+            "group": "The Tristubh Group"
+        },
+        "98": {
+            "stanzas": 12,
+            "group": "The Anustubh-Group"
+        },
+        "99": {
+            "stanzas": 8,
+            "group": "The Anustubh-Group"
+        },
+        "100": {
+            "stanzas": 9,
+            "group": "The Anustubh-Group"
+        },
+        "101": {
+            "stanzas": 16,
+            "group": "The Anustubh-Group"
+        },
+        "102": {
+            "stanzas": 8,
+            "group": "The Usnih Group"
+        },
+        "103": {
+            "stanzas": 6,
+            "group": "The Usnih Group"
+        },
+        "104": {
+            "stanzas": 6,
+            "group": "The Usnih Group"
+        },
+        "105": {
+            "stanzas": 6,
+            "group": "The Usnih Group"
+        },
+        "106": {
+            "stanzas": 14,
+            "group": "The Usnih Group"
+        },
+        "107": {
+            "stanzas": 26,
+            "group": "The Pragatha Group"
+        },
+        "108": {
+            "stanzas": 16,
+            "group": "The Pragatha Group"
+        },
+        "109": {
+            "stanzas": 22,
+            "group": "Various Metres"
+        },
+        "110": {
+            "stanzas": 12,
+            "group": "Various Metres"
+        },
+        "111": {
+            "stanzas": 3,
+            "group": "Various Metres"
+        },
+        "112": {
+            "stanzas": 4,
+            "group": "Various Metres"
+        },
+        "113": {
+            "stanzas": 11,
+            "group": "Various Metres"
+        },
+        "114": {
+            "stanzas": 4,
+            "group": "Various Metres"
+        }
+    },
+    "10": {
+        "1": {
+            "stanzas": 7,
+            "group": "Hymns of Trita Aptya"
+        },
+        "2": {
+            "stanzas": 7,
+            "group": "Hymns of Trita Aptya"
+        },
+        "3": {
+            "stanzas": 7,
+            "group": "Hymns of Trita Aptya"
+        },
+        "4": {
+            "stanzas": 7,
+            "group": "Hymns of Trita Aptya"
+        },
+        "5": {
+            "stanzas": 7,
+            "group": "Hymns of Trita Aptya"
+        },
+        "6": {
+            "stanzas": 7,
+            "group": "Hymns of Trita Aptya"
+        },
+        "7": {
+            "stanzas": 7,
+            "group": "Hymns of Trita Aptya"
+        },
+        "8": {
+            "stanzas": 9,
+            "group": "Hymns of Trita Aptya"
+        },
+        "9": {
+            "stanzas": 9,
+            "group": "Hymns of Trita Aptya"
+        },
+        "10": {
+            "stanzas": 14,
+            "group": "Yama Hymns"
+        },
+        "11": {
+            "stanzas": 9,
+            "group": "Yama Hymns"
+        },
+        "12": {
+            "stanzas": 9,
+            "group": "Yama Hymns"
+        },
+        "13": {
+            "stanzas": 5,
+            "group": "Yama Hymns"
+        },
+        "14": {
+            "stanzas": 16,
+            "group": "Yama Hymns"
+        },
+        "15": {
+            "stanzas": 14,
+            "group": "Yama Hymns"
+        },
+        "16": {
+            "stanzas": 14,
+            "group": "Yama Hymns"
+        },
+        "17": {
+            "stanzas": 14,
+            "group": "Yama Hymns"
+        },
+        "18": {
+            "stanzas": 14,
+            "group": "Yama Hymns"
+        },
+        "19": {
+            "stanzas": 8,
+            "group": "Yama Hymns"
+        },
+        "20": {
+            "stanzas": 10,
+            "group": "Hymns of Vimada"
+        },
+        "21": {
+            "stanzas": 8,
+            "group": "Hymns of Vimada"
+        },
+        "22": {
+            "stanzas": 15,
+            "group": "Hymns of Vimada"
+        },
+        "23": {
+            "stanzas": 7,
+            "group": "Hymns of Vimada"
+        },
+        "24": {
+            "stanzas": 6,
+            "group": "Hymns of Vimada"
+        },
+        "25": {
+            "stanzas": 11,
+            "group": "Hymns of Vimada"
+        },
+        "26": {
+            "stanzas": 9,
+            "group": "Hymns of Vimada"
+        },
+        "27": {
+            "stanzas": 24,
+            "group": "The Vasukra Hymns"
+        },
+        "28": {
+            "stanzas": 12,
+            "group": "The Vasukra Hymns"
+        },
+        "29": {
+            "stanzas": 8,
+            "group": "The Vasukra Hymns"
+        },
+        "30": {
+            "stanzas": 15,
+            "group": "Hymns of Kavasa Ailusa"
+        },
+        "31": {
+            "stanzas": 11,
+            "group": "Hymns of Kavasa Ailusa"
+        },
+        "32": {
+            "stanzas": 9,
+            "group": "Hymns of Kavasa Ailusa"
+        },
+        "33": {
+            "stanzas": 9,
+            "group": "Hymns of Kavasa Ailusa"
+        },
+        "34": {
+            "stanzas": 14,
+            "group": "Hymns of Kavasa Ailusa"
+        },
+        "35": {
+            "stanzas": 14,
+            "group": "Hymns of Lusa"
+        },
+        "36": {
+            "stanzas": 14,
+            "group": "Hymns of Lusa"
+        },
+        "37": {
+            "stanzas": 12,
+            "group": "Hymns of Lusa"
+        },
+        "38": {
+            "stanzas": 5,
+            "group": "Hymns of Lusa"
+        },
+        "39": {
+            "stanzas": 14,
+            "group": "The Ghosa Hymns"
+        },
+        "40": {
+            "stanzas": 14,
+            "group": "The Ghosa Hymns"
+        },
+        "41": {
+            "stanzas": 3,
+            "group": "The Ghosa Hymns"
+        },
+        "42": {
+            "stanzas": 11,
+            "group": "Hymns of Krishna"
+        },
+        "43": {
+            "stanzas": 11,
+            "group": "Hymns of Krishna"
+        },
+        "44": {
+            "stanzas": 11,
+            "group": "Hymns of Krishna"
+        },
+        "45": {
+            "stanzas": 12,
+            "group": "The Vatsapri Hymns"
+        },
+        "46": {
+            "stanzas": 10,
+            "group": "The Vatsapri Hymns"
+        },
+        "47": {
+            "stanzas": 8,
+            "group": "The Vatsapri Hymns"
+        },
+        "48": {
+            "stanzas": 11,
+            "group": "Indra-Vaikuntha-Hymns"
+        },
+        "49": {
+            "stanzas": 11,
+            "group": "Indra-Vaikuntha-Hymns"
+        },
+        "50": {
+            "stanzas": 7,
+            "group": "Indra-Vaikuntha-Hymns"
+        },
+        "51": {
+            "stanzas": 9,
+            "group": "Agni - Saucika - Hymns"
+        },
+        "52": {
+            "stanzas": 6,
+            "group": "Agni - Saucika - Hymns"
+        },
+        "53": {
+            "stanzas": 11,
+            "group": "Agni - Saucika - Hymns"
+        },
+        "54": {
+            "stanzas": 6,
+            "group": "Brihaduktha Hymns"
+        },
+        "55": {
+            "stanzas": 8,
+            "group": "Brihaduktha Hymns"
+        },
+        "56": {
+            "stanzas": 7,
+            "group": "Brihaduktha Hymns"
+        },
+        "57": {
+            "stanzas": 6,
+            "group": "Gaupayana Hymns"
+        },
+        "58": {
+            "stanzas": 12,
+            "group": "Gaupayana Hymns"
+        },
+        "59": {
+            "stanzas": 10,
+            "group": "Gaupayana Hymns"
+        },
+        "60": {
+            "stanzas": 12,
+            "group": "Gaupayana Hymns"
+        },
+        "61": {
+            "stanzas": 27,
+            "group": "Nabhanedistha Hymns"
+        },
+        "62": {
+            "stanzas": 11,
+            "group": "Nabhanedistha Hymns"
+        },
+        "63": {
+            "stanzas": 17,
+            "group": "Gaya Plata Hymns"
+        },
+        "64": {
+            "stanzas": 17,
+            "group": "Gaya Plata Hymns"
+        },
+        "65": {
+            "stanzas": 15,
+            "group": "Hymns of Vasukarna"
+        },
+        "66": {
+            "stanzas": 15,
+            "group": "Hymns of Vasukarna"
+        },
+        "67": {
+            "stanzas": 12,
+            "group": "Hymns of Ayasya"
+        },
+        "68": {
+            "stanzas": 12,
+            "group": "Hymns of Ayasya"
+        },
+        "69": {
+            "stanzas": 12,
+            "group": "Hymns of Sumitra"
+        },
+        "70": {
+            "stanzas": 11,
+            "group": "Hymns of Sumitra"
+        },
+        "71": {
+            "stanzas": 11,
+            "group": "Brihaspati Hymns"
+        },
+        "72": {
+            "stanzas": 9,
+            "group": "Brihaspati Hymns"
+        },
+        "73": {
+            "stanzas": 11,
+            "group": "Hymns of Gauriviti"
+        },
+        "74": {
+            "stanzas": 6,
+            "group": "Hymns of Gauriviti"
+        },
+        "75": {
+            "stanzas": 9,
+            "group": "Two Single Poets"
+        },
+        "76": {
+            "stanzas": 8,
+            "group": "Two Single Poets"
+        },
+        "77": {
+            "stanzas": 8,
+            "group": "Hymns of Syumarasmi"
+        },
+        "78": {
+            "stanzas": 8,
+            "group": "Hymns of Syumarasmi"
+        },
+        "79": {
+            "stanzas": 7,
+            "group": "Saucika Hymns"
+        },
+        "80": {
+            "stanzas": 7,
+            "group": "Saucika Hymns"
+        },
+        "81": {
+            "stanzas": 7,
+            "group": "Hymns of Visvakarman Bhauvana"
+        },
+        "82": {
+            "stanzas": 7,
+            "group": "Hymns of Visvakarman Bhauvana"
+        },
+        "83": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "84": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "85": {
+            "stanzas": 47,
+            "group": "Hymns of Manyu"
+        },
+        "86": {
+            "stanzas": 23,
+            "group": "Hymns of Manyu"
+        },
+        "87": {
+            "stanzas": 25,
+            "group": "Hymns of Manyu"
+        },
+        "88": {
+            "stanzas": 19,
+            "group": "Hymns of Manyu"
+        },
+        "89": {
+            "stanzas": 18,
+            "group": "Hymns of Manyu"
+        },
+        "90": {
+            "stanzas": 16,
+            "group": "Hymns of Manyu"
+        },
+        "91": {
+            "stanzas": 15,
+            "group": "Hymns of Manyu"
+        },
+        "92": {
+            "stanzas": 15,
+            "group": "Hymns of Manyu"
+        },
+        "93": {
+            "stanzas": 15,
+            "group": "Hymns of Manyu"
+        },
+        "94": {
+            "stanzas": 14,
+            "group": "Hymns of Manyu"
+        },
+        "95": {
+            "stanzas": 18,
+            "group": "Hymns of Manyu"
+        },
+        "96": {
+            "stanzas": 13,
+            "group": "Hymns of Manyu"
+        },
+        "97": {
+            "stanzas": 23,
+            "group": "Hymns of Manyu"
+        },
+        "98": {
+            "stanzas": 12,
+            "group": "Hymns of Manyu"
+        },
+        "99": {
+            "stanzas": 12,
+            "group": "Hymns of Manyu"
+        },
+        "100": {
+            "stanzas": 12,
+            "group": "Hymns of Manyu"
+        },
+        "101": {
+            "stanzas": 12,
+            "group": "Hymns of Manyu"
+        },
+        "102": {
+            "stanzas": 12,
+            "group": "Hymns of Manyu"
+        },
+        "103": {
+            "stanzas": 13,
+            "group": "Hymns of Manyu"
+        },
+        "104": {
+            "stanzas": 11,
+            "group": "Hymns of Manyu"
+        },
+        "105": {
+            "stanzas": 11,
+            "group": "Hymns of Manyu"
+        },
+        "106": {
+            "stanzas": 11,
+            "group": "Hymns of Manyu"
+        },
+        "107": {
+            "stanzas": 11,
+            "group": "Hymns of Manyu"
+        },
+        "108": {
+            "stanzas": 11,
+            "group": "Hymns of Manyu"
+        },
+        "109": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "110": {
+            "stanzas": 11,
+            "group": "Hymns of Manyu"
+        },
+        "111": {
+            "stanzas": 10,
+            "group": "Hymns of Manyu"
+        },
+        "112": {
+            "stanzas": 10,
+            "group": "Hymns of Manyu"
+        },
+        "113": {
+            "stanzas": 10,
+            "group": "Hymns of Manyu"
+        },
+        "114": {
+            "stanzas": 10,
+            "group": "Hymns of Manyu"
+        },
+        "115": {
+            "stanzas": 9,
+            "group": "Hymns of Manyu"
+        },
+        "116": {
+            "stanzas": 9,
+            "group": "Hymns of Manyu"
+        },
+        "117": {
+            "stanzas": 9,
+            "group": "Hymns of Manyu"
+        },
+        "118": {
+            "stanzas": 9,
+            "group": "Hymns of Manyu"
+        },
+        "119": {
+            "stanzas": 13,
+            "group": "Hymns of Manyu"
+        },
+        "120": {
+            "stanzas": 9,
+            "group": "Hymns of Manyu"
+        },
+        "121": {
+            "stanzas": 10,
+            "group": "Hymns of Manyu"
+        },
+        "122": {
+            "stanzas": 8,
+            "group": "Hymns of Manyu"
+        },
+        "123": {
+            "stanzas": 8,
+            "group": "Hymns of Manyu"
+        },
+        "124": {
+            "stanzas": 9,
+            "group": "Hymns of Manyu"
+        },
+        "125": {
+            "stanzas": 8,
+            "group": "Hymns of Manyu"
+        },
+        "126": {
+            "stanzas": 8,
+            "group": "Hymns of Manyu"
+        },
+        "127": {
+            "stanzas": 8,
+            "group": "Hymns of Manyu"
+        },
+        "128": {
+            "stanzas": 9,
+            "group": "Hymns of Manyu"
+        },
+        "129": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "130": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "131": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "132": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "133": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "134": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "135": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "136": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "137": {
+            "stanzas": 7,
+            "group": "Hymns of Manyu"
+        },
+        "138": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "139": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "140": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "141": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "142": {
+            "stanzas": 8,
+            "group": "Hymns of Manyu"
+        },
+        "143": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "144": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "145": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "146": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "147": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "148": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "149": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "150": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "151": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "152": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "153": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "154": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "155": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "156": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "157": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "158": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "159": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "160": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "161": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "162": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "163": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "164": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "165": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "166": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "167": {
+            "stanzas": 4,
+            "group": "Hymns of Manyu"
+        },
+        "168": {
+            "stanzas": 4,
+            "group": "Hymns of Manyu"
+        },
+        "169": {
+            "stanzas": 4,
+            "group": "Hymns of Manyu"
+        },
+        "170": {
+            "stanzas": 4,
+            "group": "Hymns of Manyu"
+        },
+        "171": {
+            "stanzas": 4,
+            "group": "Hymns of Manyu"
+        },
+        "172": {
+            "stanzas": 4,
+            "group": "Hymns of Manyu"
+        },
+        "173": {
+            "stanzas": 6,
+            "group": "Hymns of Manyu"
+        },
+        "174": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "175": {
+            "stanzas": 4,
+            "group": "Hymns of Manyu"
+        },
+        "176": {
+            "stanzas": 4,
+            "group": "Hymns of Manyu"
+        },
+        "177": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "178": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "179": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "180": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "181": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "182": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "183": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "184": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "185": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "186": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "187": {
+            "stanzas": 5,
+            "group": "Hymns of Manyu"
+        },
+        "188": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "189": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "190": {
+            "stanzas": 3,
+            "group": "Hymns of Manyu"
+        },
+        "191": {
+            "stanzas": 4,
+            "group": "Hymns of Manyu"
+        }
+    }
+}
