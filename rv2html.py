@@ -18,6 +18,7 @@ hymn_template = template_engine.get_template("hymn.template.html")
 mandala_template = template_engine.get_template("mandala.template.html")
 verse_english_line_splitter = re.compile(r'^\d+\s', flags=re.MULTILINE | re.DOTALL)
 verse_sanskrit_line_splitter = re.compile(r'(\|\|)', flags=re.MULTILINE | re.DOTALL)
+failures = 0
 
 def GetRVHymn(mandala, hymn):
     return RV_DATA[str(mandala)][str(hymn)]
@@ -96,6 +97,7 @@ def RenderRVMandalaIndex(mandala):
         }))
 
 def RenderRVHymn(mandala, hymn):
+    global failures
     file_path = GenerateRVHymnPath(mandala, hymn)
     file_dir = os.path.dirname(file_path)
     os.makedirs(file_dir, exist_ok=True)
@@ -173,8 +175,12 @@ def RenderRVHymn(mandala, hymn):
                 'audio_url': GetRVHymnAudioURL(mandala, hymn)
             }))
         except:
+            import traceback
+            print(traceback.format_exc())
             print(colorama.Fore.RED + "FAILED!" + colorama.Fore.RESET)
+            failures += 1
 
+    print(f'Failures: {failures}')
 
 for mandala in range(1, 10+1):
     MANDALA_MAX = GetRVMandalaMax(mandala)
